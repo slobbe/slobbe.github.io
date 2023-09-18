@@ -1,3 +1,9 @@
 body {
   font-family: "Ubuntu Regular", Arial, sans-serif;
+  background-color: #333333;
+  color: white;
+}
+
+h1 {
+  color: #A8C0B4;
 }
