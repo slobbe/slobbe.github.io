@@ -1,9 +1,22 @@
 {
-  "callback":"https://cashu-address.com/.well-known/lnurlp/npub1zpplndrwn3c6anq7lcuzvmzm4l243qkjrjgtmp4343q0659ydcvsdcy9ys",
-  "maxSendable":100000000,
-  "minSendable":10000,
-  "metadata":"[[\"text/plain\",\"A cashu lightning address... Neat!\"]]",
+  "status":"OK",
   "tag":"payRequest",
-  "allowsNostr":true,
-  "nostrPubkey":"8576fd19bfe693cba6f0aee33b8427334306846ec61b65e2d617209e1c021046"
+  "commentAllowed":255,
+  "callback":"https://getalby.com/lnurlp/zeppelin/callback",
+  "metadata":"[[\"text/identifier\",\"zeppelin@getalby.com\"],[\"text/plain\",\"Sats for Zeppelin\"]]",
+  "minSendable":1000,
+  "maxSendable":500000000,
+  "payerData":{
+    "name":{
+      "mandatory":false
+      },
+    "email":{
+      "mandatory":false
+      },
+    "pubkey":{
+        "mandatory":false
+      }
+    },
+  "nostrPubkey":"79f00d3f5a19ec806189fcab03c1be4ff81d18ee4f653c88fac41fe03570f432",
+  "allowsNostr":true
 }
