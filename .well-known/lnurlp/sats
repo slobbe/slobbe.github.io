@@ -1,10 +1,10 @@
 {
-  "callback":"https://zeuspay.com/api/lnurl/pay/seba",
-  "metadata":"[[\"text/plain\",\"Self-custodial LN address powered by ZEUS. Hodl invoice will settle when user comes online within 24hrs or you'll be refunded.\"],[\"text/identifier\",\"seba@zeuspay.com\"]]",
-  "tag":"payRequest",
-  "minSendable":10000,
-  "maxSendable":612000000000,
-  "allowsNostr":true,
-  "nostrPubkey":"abd32a8bc530142cc04a23f9c07239dbbc6664f4f7eeceb8092c0e3530f94e9d",
-  "commentAllowed":600
+  "callback": "https://zeuspay.com/api/lnurl/pay/zeppelin",
+  "metadata": "[[\"text/plain\",\"Self-custodial LN address powered by ZEUS. Hodl invoice will settle when user comes online within 24hrs or you'll be refunded.\"],[\"text/identifier\",\"zeppelin@zeuspay.com\"]]",
+  "tag": "payRequest",
+  "minSendable": 10000,
+  "maxSendable": 612000000000,
+  "allowsNostr": true,
+  "nostrPubkey": "abd32a8bc530142cc04a23f9c07239dbbc6664f4f7eeceb8092c0e3530f94e9d",
+  "commentAllowed": 600
 }
